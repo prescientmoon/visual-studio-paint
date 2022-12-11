@@ -13,7 +13,7 @@
   "dependencies": {
     "@mdi/js": "^4.4.95",
     "compression": "^1.7.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "file-saver": "^2.0.2",
     "knex": "^0.19.5",
     "regenerator-runtime": "^0.13.3",
